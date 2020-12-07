@@ -7,9 +7,9 @@ this is a a collection of my own solutions to AoC 2020 riddles,
 - [say hello](https://twitter.com/invzz) 
 
 #### Notebooks:
-- (Report Repair)[https://github.com/invzz/adventofcode/blob/main/day1.ipynb]
-- (Password Philosophy)[https://github.com/invzz/adventofcode/blob/main/day2.ipynb]
-- (Toboggan Trajectory)[https://github.com/invzz/adventofcode/blob/main/day3.ipynb]
-- (Passport Processing)[https://github.com/invzz/adventofcode/blob/main/day4.ipynb]
-- (Binary Boarding)[https://github.com/invzz/adventofcode/blob/main/day5.ipynb]
+- [Report Repair](https://github.com/invzz/adventofcode/blob/main/day1.ipynb)
+- [Password Philosophy](https://github.com/invzz/adventofcode/blob/main/day2.ipynb)
+- [Toboggan Trajectory](https://github.com/invzz/adventofcode/blob/main/day3.ipynb)
+- [Passport Processing](https://github.com/invzz/adventofcode/blob/main/day4.ipynb)
+- [Binary Boarding](https://github.com/invzz/adventofcode/blob/main/day5.ipynb)
 
