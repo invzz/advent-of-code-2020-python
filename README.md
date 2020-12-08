@@ -1,4 +1,4 @@
-# adventofcode 2020 :
+# Advent Of Code 2020 :
 
 this is a a collection of my own solutions to AoC 2020 riddles, 
 
@@ -16,4 +16,5 @@ this is a a collection of my own solutions to AoC 2020 riddles,
 3. [Toboggan Trajectory](https://github.com/invzz/adventofcode/blob/main/day3.ipynb)
 4. [Passport Processing](https://github.com/invzz/adventofcode/blob/main/day4.ipynb)
 5. [Binary Boarding](https://github.com/invzz/adventofcode/blob/main/day5.ipynb)
+6. [Custom Customs](https://github.com/invzz/adventofcode/blob/main/day6.ipynb)
 ----------
