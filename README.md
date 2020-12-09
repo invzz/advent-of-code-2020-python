@@ -17,4 +17,5 @@ this is a a collection of my own solutions to AoC 2020 riddles,
 4. [Passport Processing](https://github.com/invzz/adventofcode/blob/main/day4.ipynb)
 5. [Binary Boarding](https://github.com/invzz/adventofcode/blob/main/day5.ipynb)
 6. [Custom Customs](https://github.com/invzz/adventofcode/blob/main/day6.ipynb)
+7. [Handy Haversacks](https://github.com/invzz/adventofcode/blob/main/day7.ipynb)
 ----------
