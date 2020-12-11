@@ -4,7 +4,8 @@ this is a a collection of my own solutions to AoC 2020 riddles,
 
 - using 
     - `python notebooks` to solve riddles 
-    - `pandas` to visualize data
+    - sometimes `pandas plots` only to better visualize data
+
 - visit 
     - [Advent of Code](https://adventofcode.com/2020/day/5/answer)
     - [say hello](https://twitter.com/invzz)
@@ -18,4 +19,5 @@ this is a a collection of my own solutions to AoC 2020 riddles,
 5. [Binary Boarding](https://github.com/invzz/adventofcode/blob/main/day5.ipynb)
 6. [Custom Customs](https://github.com/invzz/adventofcode/blob/main/day6.ipynb)
 7. [Handy Haversacks](https://github.com/invzz/adventofcode/blob/main/day7.ipynb)
+8. [Handheld Halting](https://github.com/invzz/adventofcode/blob/main/day8.ipynb)
 ----------
